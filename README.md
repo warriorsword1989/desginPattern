@@ -37,7 +37,9 @@ id sem consectetuer libero luctus adipiscing.
 1.  Bird
 4.  McHale
 3.  Parish
+
 `console.log('121212')`
+
 ```
 clearBounds() {
     this.bounds = null;
@@ -45,3 +47,4 @@ clearBounds() {
         this.parent.clearBounds();
     }
 }
+```
